@@ -3,6 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/7u19ki1r7pofwr25/branch/deploy?svg=true)](https://ci.appveyor.com/project/Aluxian/electron-superkit/branch/deploy)
 [![Dependency Status](https://david-dm.org/Aluxian/electron-superkit/status.svg)](https://david-dm.org/Aluxian/electron-superkit#info=dependencies)
 [![Join the chat at https://gitter.im/Aluxian/electron-superkit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/electron-superkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/aluxian)
 
 :zap: *An Electron starter kit with super powers.* :zap:
 
